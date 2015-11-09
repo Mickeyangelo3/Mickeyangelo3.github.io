@@ -1,0 +1,15 @@
+
+h1 
+
+p {
+	text-align: center;
+	font-family:'Times-new-roman';
+  	font-color: red;
+	font-size: 36px;
+	line-height: 1.5em;
+	margin: 1.5em;
+}
+strong {
+	font-variant: large-caps;
+
+}

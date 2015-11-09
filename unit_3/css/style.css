@@ -1,15 +1,15 @@
-body {
-  text-align: center;
-  color: #red;
-  font-family: "Times New Roman";
-}
-H1 { text-align: center }
-	{text-color: blue }
 
+h1 
 
-hr {
-  	width: 200px;
-}
 p {
-  font-size: 22px;
+	text-align: center;
+	font-family:'Times-new-roman';
+  	font-color: red;
+	font-size: 36px;
+	line-height: 1.5em;
+	margin: 1.5em;
+}
+strong {
+	font-variant: large-caps;
+
 }
