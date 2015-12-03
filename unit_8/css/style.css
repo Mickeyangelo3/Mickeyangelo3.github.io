@@ -1,0 +1,60 @@
+
+header {
+    background-color: #99ccff;
+    border: 3% black solid;
+    padding: 10%;
+}
+.navbar ul li {display:inline
+}
+
+aside {
+    background-color: #FFC675;
+    border: 3% black solid;
+    padding: 10%;
+}
+article {
+    background-color: #E89C6C;
+    border: 3% black solid;
+    padding: 10%;
+}
+
+
+section {
+    background-color: #FFE2B8;
+    border: 3% black solid;
+    padding: 10%;
+}
+#two_column {
+    background-color: #FFB7CF;
+    border: 3% black solid;
+    padding: 10%;
+}
+
+#left {
+    background-color: #F1A629;
+    border: 3% black solid;
+    padding: 10%;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    background-color: #A5D8F6;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 62%;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+footer {
+    background-color: #E89C6C;
+    border: 2px black solid;
+    padding: 10px;
+}
