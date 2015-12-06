@@ -1,33 +1,34 @@
 
 header {
     background-color: #99ccff;
-    border: 3% black solid;
-    padding: 10%;
+    border: 3px black solid;
+    padding: 10px;
+
 }
 .navbar ul li {display:inline
 }
 
 aside {
     background-color: #FFC675;
-    border: 3% black solid;
-    padding: 10%;
+    border: 3px black solid;
+    padding: 10px;
 }
 article {
     background-color: #E89C6C;
-    border: 3% black solid;
-    padding: 10%;
+    border: 3px black solid;
+    padding: 10px%;
 }
 
 
 section {
     background-color: #FFE2B8;
-    border: 3% black solid;
-    padding: 10%;
+    border: 3px black solid;
+    padding: 10px;
 }
 #two_column {
     background-color: #FFB7CF;
-    border: 3% black solid;
-    padding: 10%;
+    border: 3px black solid;
+    padding: 10px;
 }
 
 #left {
